@@ -2,7 +2,7 @@
 
 /*********** Theme Generic **********/
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Nunito', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: $theme-text-color-secondary;
@@ -10,9 +10,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: $theme-text-color-primary;
-	font-weight: 600;
+	font-weight: 700;
 }
 
 code {
