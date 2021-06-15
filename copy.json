@@ -1,0 +1,46 @@
+{
+    "faq": {
+        "limitation": {
+            "id": [
+                {
+                    "question": "Apakah ada batasan untuk jumlah google form dan memindai Qr-Code?",
+                    "answer": "Tidak ada batasan, kamu bisa menambahkan sejumlah yang ingin kamu inginkan."
+                }
+            ],
+            "en": [
+                {
+                    "question": "Apakah ada batasan untuk jumlah google form dan memindai Qr-Code?",
+                    "answer": "Tidak ada batasan, kamu bisa menambahkan sejumlah yang ingin kamu inginkan."
+                }
+            ]
+        },
+        "scanning": {
+            "id": [
+                {
+                    "question": "Apakah ada batasan untuk jumlah google form dan memindai Qr-Code?",
+                    "answer": "Tidak ada batasan, kamu bisa menambahkan sejumlah yang ingin kamu inginkan."
+                }
+            ],
+            "en": [
+                {
+                    "question": "Apakah ada batasan untuk jumlah google form dan memindai Qr-Code?",
+                    "answer": "Tidak ada batasan, kamu bisa menambahkan sejumlah yang ingin kamu inginkan."
+                }
+            ]
+        },
+        "data-storage": {
+            "id": [
+                {
+                    "question": "Apakah ada batasan untuk jumlah google form dan memindai Qr-Code?",
+                    "answer": "Tidak ada batasan, kamu bisa menambahkan sejumlah yang ingin kamu inginkan."
+                }
+            ],
+            "en": [
+                {
+                    "question": "Apakah ada batasan untuk jumlah google form dan memindai Qr-Code?",
+                    "answer": "Tidak ada batasan, kamu bisa menambahkan sejumlah yang ingin kamu inginkan."
+                }
+            ]
+        }
+    }
+}
